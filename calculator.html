@@ -4,7 +4,7 @@
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
   <title>Calculator</title>
-  <link rel="stylesheet" href="cal.css" />
+  <link rel="stylesheet" href="calculator.css" />
 </head>
 <body>
 
@@ -33,6 +33,6 @@
     </div>
   </div>
 
-  <script src="cal.js"></script>
+  <script src="calculator.js"></script>
 </body>
 </html>
